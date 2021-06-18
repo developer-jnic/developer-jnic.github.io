@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /es/js
+Disallow: /en/js
+Disallow: /es/css
+Disallow: /en/js
+Sitemap: http://www.renic.es/sitemap.xml
