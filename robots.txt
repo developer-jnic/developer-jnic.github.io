@@ -3,4 +3,4 @@ Disallow: /es/js
 Disallow: /en/js
 Disallow: /es/css
 Disallow: /en/js
-Sitemap: http://www.renic.es/sitemap.xml
+Sitemap: https://2023.jnic.es/sitemap.xml
