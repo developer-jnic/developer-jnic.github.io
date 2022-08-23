@@ -5,15 +5,15 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://2019.jnic.eu/</loc>
-  <lastmod>2018-07-12T13:02:48+00:00</lastmod>
+  <loc>https://2023.jnic.es</loc>
+  <lastmod>2022-08-17T11:43:52+00:00</lastmod>
 </url>
 <url>
-<loc>http://2019.jnic.eu/index_en.html</loc>
-  <lastmod>2018-07-12T12:56:47+00:00</lastmod>
+<loc>https://2023.jnic.es/index_en.html</loc>
+  <lastmod>2022-08-17T11:43:52+00:00</lastmod>
 </url>
 <url>
-  <loc>http://2019.jnic.eu/index_es.html</loc>
-  <lastmod>2018-07-12T12:56:44+00:00</lastmod>
+  <loc>https://2019.jnic.es/index_es.html</loc>
+  <lastmod>2022-08-17T11:43:52+00:00</lastmod>
 </url>
 </urlset>
