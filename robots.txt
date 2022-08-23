@@ -2,5 +2,5 @@ User-agent: *
 Disallow: /es/js
 Disallow: /en/js
 Disallow: /es/css
-Disallow: /en/js
+Disallow: /en/css
 Sitemap: https://2023.jnic.es/sitemap.xml
